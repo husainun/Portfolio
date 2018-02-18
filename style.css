@@ -1,0 +1,131 @@
+.container{
+    width: 700px;
+    height:1000px;
+    background-color: #4a3c42;
+    padding:20px;
+}
+
+.header{
+    background:lightgrey;
+    width:670px;
+    
+}
+.headerleft{
+    display:inline-block;
+    padding:0px;
+    margin-right:50px;
+
+  
+}
+
+.headerright{
+    display:inline-block;
+    float:right;
+    color:black;
+    padding:0px;
+
+}
+
+.Aboutme{
+    display:inline-block;
+    height:208px;
+    width:325px;
+    vertical-align:top;
+    background-color: #eee9ee;
+}
+
+.About {
+    width: 700px;
+}
+.Aboutme p{
+    padding:5px;
+  
+}
+
+img{
+    height:200px;
+    width:300px;
+    display:inline-block;
+    margin-right: 30px;
+    border: 5px solid grey;
+
+}
+.head2{
+    height:20px;
+    background-color:888893;
+}
+
+.head2 h5{
+    display:inline;
+    padding:0px;
+}
+
+.Projects{
+    /* height:400px; */
+    width:700px;
+    display: inline-block;
+    margin-top:10px;
+}
+
+.myImage { 
+    width:210px;
+    height:100px;
+    margin:0px; 
+    border:0px;
+}
+.sampleText{ 
+    width:210px;
+   
+    margin:0px; 
+}
+.SampleProjects{
+    display:inline-block;
+    width:210px;
+    height:280px;
+    margin-right:15px;
+    background-color:white;
+}
+
+.SampleProjects h3{
+    color:white;
+    background-color:grey;
+    margin:0px;
+ }
+
+
+
+.TechExamples{
+    width:210px;
+    /* height:120px; */
+    background-color:white;
+    margin-right:10px;
+    display:inline-block;
+}
+
+.SampleProjects.h3{
+    color:white;
+    background-color:grey;
+    margin:0px;
+    
+ }
+
+ul { 
+    padding: 5px; 
+}
+
+ul li{
+     display:inline-block;
+     list-style-type: none;
+     padding:0px;
+    
+ }
+ 
+ul li img {
+    height:30px;
+    width:30px;
+    margin:2px;
+    display:inline-block;
+    border:0px;
+}
+
+ 
