@@ -26,6 +26,11 @@
 
 }
 
+.Aboutme h3{
+    color:white;
+    background-color:grey;
+    margin:0px;
+ }
 .Aboutme{
     display:inline-block;
     height:208px;
